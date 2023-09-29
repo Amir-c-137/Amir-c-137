@@ -1,7 +1,8 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://camo.githubusercontent.com/4dbf9817863aefc88c9e8ef89a9b4023158f43c18bb8f5bbc5580709edf24a4b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f35362f63612f36353536636130383836613232393438353733633138343531363965376132312e676966)
+
 <h1 align="center">Hi 👋, I'm Amir Hossein Izadi</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-<img align="right" alt="Coding gif lol" width="400" src="https://camo.githubusercontent.com/4dbf9817863aefc88c9e8ef89a9b4023158f43c18bb8f5bbc5580709edf24a4b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f35362f63612f36353536636130383836613232393438353733633138343531363965376132312e676966">
+<img align="right" alt="Coding gif lol" width="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amir-c-137&label=Profile%20views&color=0e75b6&style=flat" alt="amir-c-137" /> </p>
 
